@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khubaib</h1>
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on my portfolio
 
 - 🌱 I’m currently learning Typescript, Nextjs, ChakraUI, Redux, and Strapi
 
-- 👨‍💻 All of my projects are available at [https://khubaib-portfolio.surge.sh/](https://khubaib-portfolio.surge.sh/)
+- 👨‍💻 All of my projects are available at [khubaib-portfolio](https://khubaib-portfolio.surge.sh/)
 
 - 💬 Ask me about React, Tailwind CSS
 
